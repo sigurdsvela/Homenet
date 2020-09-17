@@ -1,0 +1,4 @@
+- SSH
+	src_port: 22
+	dest_port: 22
+	dest_addr: "192.168.0.150"
